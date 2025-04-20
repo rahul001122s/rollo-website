@@ -1,0 +1,1 @@
+export const Button = ({ children, className }: any) => <button className={`px-4 py-2 rounded-xl ${className}`}>{children}</button>;
